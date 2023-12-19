@@ -1,4 +1,4 @@
-# Austek Tap
+# austek Tap
 
 ## How do I install these formulae?
 
