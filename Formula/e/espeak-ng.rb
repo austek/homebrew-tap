@@ -15,6 +15,7 @@ class EspeakNg < Formula
 
   patch do
     url "https://raw.githubusercontent.com/austek/formula-patches/e3cb416/espeak-ng/1.51.1.patch"
+    sha256 "89c44b882558134ba1c55b599e30660340984afe178ba9fd69ecd271afe449d0"
   end
 
   def install
