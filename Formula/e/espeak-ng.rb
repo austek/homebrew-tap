@@ -1,8 +1,8 @@
 class EspeakNg < Formula
   desc "Multi-lingual software speech synthesizer"
   homepage "https://github.com/espeak-ng/espeak-ng"
-  url "https://github.com/espeak-ng/espeak-ng/archive/refs/tags/1.51.1.tar.gz"
-  sha256 "0823df5648659dcb67915baaf99118dcc8853639f47cadaa029c174bdd768d20"
+  url "https://github.com/espeak-ng/espeak-ng/archive/refs/tags/1.52.0.tar.gz"
+  sha256 "bb4338102ff3b49a81423da8a1a158b420124b055b60fa76cfb4b18677130a23"
   license "GPL-3.0-only"
 
   depends_on "autoconf" => :build
